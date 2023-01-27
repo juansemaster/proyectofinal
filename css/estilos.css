@@ -1,0 +1,19 @@
+* {
+    color: black;
+    box-sizing: border-box;
+}
+#header {
+    background-color: darkslategrey;
+}
+#h1 {
+
+}
+#aside {
+    background-color: darkgrey;
+}
+#main {
+    background-color: white;
+}
+#footer {
+    background-color: darkslategrey;
+}
